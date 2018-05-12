@@ -1,0 +1,46 @@
+_repo: Tony-and-the-Beetles_40964
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40964-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dick, Philip K.
+    alias: Dick, Philip Kindred
+    birthdate: 1928
+    deathdate: 1982
+    gutenberg_agent_id: '33399'
+    url: http://www.gutenberg.org/2009/agents/33399
+    wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
+description: <p>A commentary on racism, "Tony and the Beetles" takes place in a colony
+  world where Terra has been oppressing the Beetles of Orion for decades. But when
+  Terra suffers a major defeat at the hands of the Beetles, Tony, a small boy, is
+  surprised to discover the Beetles he believed to be his friends aren't so friendly
+  after all.</p><p>Philip K. Dick was an American science-fiction novelist, short-story
+  writer and essayist. His first short story, "Beyond Lies the Wub," was published
+  shortly after his high school graduation. Some of his most famous short stories
+  were adapted for film, including "The Minority Report," "Paycheck," "Second Variety"
+  (adapted into the film <em>Screamers</em>) and "We Can Remember It For You Wholesale"
+  (adapted into the film <em>Total Recall</em>).</p><p>HarperCollins brings great
+  works of literature to life in digital format, upholding the highest standards in
+  ebook production and celebrating reading in all its forms. Look for more titles
+  in the...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'War stories'
+- !lcc 'PS'
+- !lcsh 'Racism -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Science fiction'
+title: Tony and the Beetles
+url: http://www.gutenberg.org/ebooks/40964
